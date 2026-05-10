@@ -10,6 +10,3 @@ a = 10
 b = 20
 
 print("This is a code, I will not be commiting first")
-
-
-print("This commit is to be deleted, this code was once deleted using reset")
