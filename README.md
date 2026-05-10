@@ -98,8 +98,6 @@ Stage and commit the changes
 
 ![App Screenshot](https://github.com/HamidSiddiqui12/git_assignment/blob/1a709f62495463d2605b6783b0b9d2535a91fa3e/img/git_feature_branch_code_changed.png)
 
-![App Screenshot]()
-
 Switch back to the main branch
 Merge the feature branch into main
 
